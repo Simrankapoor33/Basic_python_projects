@@ -1,4 +1,4 @@
-# AI Project
+# python Project
 
 ## Table of Contents
 - [Tic Tac Toe Game](#tic-tac-toe-game)
